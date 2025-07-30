@@ -5,8 +5,6 @@
 </div>
 <br>
 
-# About Me
-
 <pre>
   🌱 I'm interesed in software engineering, Cloud infrastructure and Full-stack development
   🤔 I'm preparing to take the AWS Cloud Practitioner exam
