@@ -21,8 +21,15 @@
 </div>
 <br><br>
 
+<a href="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786">
+    <img src="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786" alt="Ness getting cooked">
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/user-attachments/assets/34a267a9-26e5-480e-ae5c-b0c464ac5e09">
     <img src="https://github.com/user-attachments/assets/34a267a9-26e5-480e-ae5c-b0c464ac5e09" alt="Michael Kaiser hitting a crazy ninja rolling kick into a goal">
   </a>
 </div>
+
+
