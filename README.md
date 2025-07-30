@@ -12,12 +12,17 @@
   ✨ I want to work on something which makes an impact
   💻 I'm actively looking for graduate internships / work
 </pre>
-
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ethan-weygang-8a90301b2/)
 [![](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:ethanweygang@email.com)
+<br>
+
+<div align="center">
+  <a href="https://github.com/EthanWeygang">Check out my most recent project!</a>
+</div>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/user-attachments/assets/c02877a5-f42d-4ba5-8c12-05cdf43ae1e4">
-    <img src="https://github.com/user-attachments/assets/c02877a5-f42d-4ba5-8c12-05cdf43ae1e4" alt="Typing SVG" >
+    <img src="https://github.com/user-attachments/assets/c02877a5-f42d-4ba5-8c12-05cdf43ae1e4" alt="Micheal Kaiser hitting a crazy ninja rolling kick into a goal">
   </a>
 </div>
