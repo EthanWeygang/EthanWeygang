@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![typewriter (1)](https://github.com/user-attachments/assets/2b9fe3a4-7b6a-481f-9294-50c64f0fe538)
+
+
+
 <!--
 **EthanWeygang/EthanWeygang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
