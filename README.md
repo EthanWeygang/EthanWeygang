@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Intel+One+Mono&duration=3000&pause=200&color=F7A54C&center=true&multiline=true&repeat=false&width=435&height=80&lines=I'm+Ethan;I+love+coding+and+Blue+lock;%E2%94%BB%E2%94%81%E2%94%BB+%EF%B8%B5%E3%83%BD(%60%D0%94%C2%B4)%EF%BE%89%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB" alt="Typing SVG">
   </a>
 </div>
@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786" style="display:inline-block;">
+  <a style="display:inline-block;">
     <img src="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786" alt="Ness getting cooked" width="498" height="auto" />
   </a>
   
@@ -36,7 +36,7 @@
 
 <details>
   <summary></summary>
-  <a href="https://github.com/user-attachments/assets/0384f14e-f692-47a7-ac5e-edec4ea8b3e3">
+  <a>
     <img src="https://github.com/user-attachments/assets/0384f14e-f692-47a7-ac5e-edec4ea8b3e3" alt="the goat kurona">  
   </a>
 </details>
@@ -44,7 +44,7 @@
 
 
 <div align="right">
-  <a href="https://github.com/user-attachments/assets/34a267a9-26e5-480e-ae5c-b0c464ac5e09">
+  <a>
     <img src="https://github.com/user-attachments/assets/34a267a9-26e5-480e-ae5c-b0c464ac5e09" alt="Michael Kaiser hitting a crazy ninja rolling kick into a goal">
   </a>
 </div>
