@@ -17,7 +17,16 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=EthanWeygang&color=blue)
 
 <br>
-
+<!--
+<details>
+  <summary></summary>
+  <div align="center">
+    <a>
+      <img src="https://github.com/user-attachments/assets/0384f14e-f692-47a7-ac5e-edec4ea8b3e3" alt="the goat kurona" width="200" height="auto">  
+    </a>
+  </div>
+</details>
+-->
 <div align="center">
   <a href="https://github.com/EthanWeygang">Check out my most recent project!</a>
 </div>
@@ -34,12 +43,7 @@
   </a>
 </div>
 
-<details>
-  <summary></summary>
-  <a>
-    <img src="https://github.com/user-attachments/assets/0384f14e-f692-47a7-ac5e-edec4ea8b3e3" alt="the goat kurona">  
-  </a>
-</details>
+
 
 
 
