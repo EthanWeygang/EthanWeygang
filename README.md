@@ -14,6 +14,8 @@
 </pre>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ethan-weygang-8a90301b2/)
 [![](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:ethanweygang@email.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=EthanWeygang&color=blue)
+
 <br>
 
 <div align="center">
