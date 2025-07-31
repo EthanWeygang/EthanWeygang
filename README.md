@@ -23,11 +23,19 @@
 </div>
 <br><br>
 
-<div align="left">
-  <a href="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786">
-    <img src="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786" alt="Ness getting cooked">
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786" style="display:inline-block;">
+    <img src="https://github.com/user-attachments/assets/92a0f850-268f-4efe-b8f6-b43012bf1786" alt="Ness getting cooked" width="498" height="auto" />
+  </a>
+  
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ethanweygang&redirect=true" style="display:inline-block;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ethanweygang&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=f7a54c&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </div>
+
+
+
 
 <div align="right">
   <a href="https://github.com/user-attachments/assets/34a267a9-26e5-480e-ae5c-b0c464ac5e09">
