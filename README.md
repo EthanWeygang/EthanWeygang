@@ -6,7 +6,7 @@
 <br>
 
 <pre>
-  🌱 I'm interesed in software engineering, Cloud infrastructure and Full-stack development
+  🌱 I'm interesed in Software engineering, Cloud infrastructure and Full-stack development
   🤔 I'm preparing to take the AWS Cloud Practitioner exam
   💬 My main languages are Java, Javascript and Python
   ✨ I want to work on something which makes an impact
@@ -16,8 +16,10 @@
 [![](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:ethanweygang@email.com)
 ![Visitor Count](https://komarev.com/ghpvc/?username=EthanWeygang&color=blue)
 
-<br>
 <!--
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 <details>
   <summary></summary>
   <div align="center">
