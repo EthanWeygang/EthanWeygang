@@ -34,6 +34,12 @@
   </a>
 </div>
 
+<details>
+  <summary></summary>
+  <a href="https://github.com/user-attachments/assets/0384f14e-f692-47a7-ac5e-edec4ea8b3e3">
+    <img src="https://github.com/user-attachments/assets/0384f14e-f692-47a7-ac5e-edec4ea8b3e3" alt="the goat kurona">  
+  </a>
+</details>
 
 
 
