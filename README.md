@@ -30,7 +30,7 @@
 </details>
 -->
 <div align="center">
-  <a href="https://github.com/EthanWeygang">Check out my most recent project!</a>
+  <a href="https://github.com/EthanWeygang/nimbus">Check out my most recent project!</a>
 </div>
 <br><br>
 
