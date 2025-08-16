@@ -6,7 +6,7 @@
 <br>
 
 <pre>
-  🌱 I'm interesed in Software engineering, Cloud infrastructure and Full-stack development
+  🌱 I'm interested in Software engineering, Cloud infrastructure and Full-stack development
   🤔 I'm preparing to take the AWS Cloud Practitioner exam
   💬 My main languages are Java, Javascript and Python
   ✨ I want to work on something which makes an impact
