@@ -10,7 +10,7 @@
   🤔 I'm preparing to take the AWS Cloud Practitioner exam
   💬 My main languages are Java, Javascript and Python
   ✨ I want to work on something which makes an impact
-  💻 I'm actively looking for graduate internships / work
+  💻 I'm actively looking for graduate jobs / work
 </pre>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ethan-weygang-8a90301b2/)
 [![](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:ethanweygang@email.com)
