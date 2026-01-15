@@ -8,8 +8,7 @@
 <pre>
   🌱 I'm interested in Software engineering, Cloud infrastructure and Full-stack development
   🤔 I'm preparing to take the AWS Cloud Practitioner exam
-  💬 My main languages are Java, Javascript and Python
-  ✨ I want to work on something which makes an impact
+  💬 My main languages are Java, Typescript and Python
   💻 I'm actively looking for graduate jobs / work
 </pre>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ethan-weygang-8a90301b2/)
