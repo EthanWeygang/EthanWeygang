@@ -7,7 +7,7 @@
 
 <pre>
   🌱 I'm interested in Software engineering, Cloud infrastructure and Full-stack development
-  🤔 I'm preparing to take the AWS Cloud Practitioner exam
+  🤔 I am a AWS Certified Cloud Practitioner
   💬 My main languages are Java, Typescript and Python
   💻 I'm actively looking for graduate jobs / work
 </pre>
