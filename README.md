@@ -29,8 +29,12 @@
 </details>
 -->
 <div align="center">
-  <a href="https://github.com/EthanWeygang/nimbus">Check out my most recent project!</a>
+  <a href="https://github.com/EthanWeygang/nimbus">Check out my most recent project!</a> <br>
+  or <br>
+  <a href="https://github.com/EthanWeygang/nimbus">My portfolio</a> 
 </div>
+
+
 <br><br>
 
 
