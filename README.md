@@ -31,7 +31,7 @@
 <div align="center">
   <a href="https://github.com/EthanWeygang/nimbus">Check out my most recent project!</a> <br>
   or <br>
-  <a href="https://github.com/EthanWeygang/nimbus">My portfolio</a> 
+  <a href="https://ethanweygang.com">My portfolio</a> 
 </div>
 
 
